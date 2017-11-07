@@ -1,0 +1,33 @@
+<!DOCTYPE html>	
+<htlm>
+	<head> 
+		<title> The Ultimate Lab Blog </title>
+			<style>
+				body{
+					text-align: center;
+				} 
+				ul {
+					padding: 10px;
+				}
+				li {
+					display: inline;
+					padding: 0px 10px 0px 10px;
+				}
+			</style>
+	</head>
+	<body>
+		<h1> The Ultimate Lab Blog </h1>
+		<img src="http://www.neuroscience.cam.ac.uk/uploadedFiles/sm_vp351_php5YaynK.jpg">
+		<h3> I am a third-year PhD student in Clinical Neurosciences at the John van Geest Centre for Brain Repair. My work focuses on using genetic and cellular methods to improve nerve regeneration after spinal cord injury. You can find more about me
+				<a href="http://www.neuroscience.cam.ac.uk/directory/profile.php?vp351"> here. </a> 
+		</h3>
+		<ul>
+			<li> <a href="#"> Background </li>
+			<li> <a href="#"> Research Interestes </li>
+			<li> <a href="#"> Lab Blog </li>
+			<li> <a href="#"> Contact info </li>
+		</ul>
+	</body>
+
+
+</html>
